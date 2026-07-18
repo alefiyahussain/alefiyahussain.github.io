@@ -1,0 +1,76 @@
+---
+title: "Publications"
+toc: true
+---
+
+Below is a list of my publications. For the most up-to-date list, please see my [Google Scholar](https://scholar.google.com) or [DBLP](https://dblp.org) profile.
+
+---
+
+## Conference Papers
+
+<div class="pub-entry">
+<div class="pub-title">Towards Robust Anomaly Detection in Distributed Systems</div>
+<div class="pub-authors"><strong>A. Hussain</strong>, J. Smith, R. Patel</div>
+<div class="pub-venue">Proceedings of the ACM Symposium on Cloud Computing (SoCC), 2024</div>
+<div class="pub-links">
+  <a class="pub-link" href="#">PDF</a>
+  <a class="pub-link" href="#">Code</a>
+  <a class="pub-link" href="#">Slides</a>
+</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">SecureFlow: A Framework for Policy-Enforced Network Traffic Analysis</div>
+<div class="pub-authors"><strong>A. Hussain</strong>, M. Chen, T. Williams</div>
+<div class="pub-venue">IEEE Symposium on Security and Privacy (S&P), 2024</div>
+<div class="pub-links">
+  <a class="pub-link" href="#">PDF</a>
+  <a class="pub-link" href="#">Code</a>
+  <a class="pub-link" href="#">Talk</a>
+</div>
+</div>
+
+<div class="pub-entry">
+<div class="pub-title">Consistency Models for Geo-Distributed Key-Value Stores: A Practical Survey</div>
+<div class="pub-authors"><strong>A. Hussain</strong>, D. Kumar</div>
+<div class="pub-venue">USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2023</div>
+<div class="pub-links">
+  <a class="pub-link" href="#">PDF</a>
+  <a class="pub-link" href="#">Slides</a>
+</div>
+</div>
+
+---
+
+## Workshop Papers & Posters
+
+<div class="pub-entry">
+<div class="pub-title">Early Detection of BGP Hijacks Using Streaming Machine Learning</div>
+<div class="pub-authors"><strong>A. Hussain</strong>, L. Zhao</div>
+<div class="pub-venue">Workshop on Machine Learning for Networking (MLArchSys), NeurIPS, 2023</div>
+<div class="pub-links">
+  <a class="pub-link" href="#">PDF</a>
+  <a class="pub-link" href="#">Poster</a>
+</div>
+</div>
+
+---
+
+## Preprints
+
+<div class="pub-entry">
+<div class="pub-title">Evaluating the Adversarial Robustness of Intrusion Detection Systems</div>
+<div class="pub-authors"><strong>A. Hussain</strong>, R. Patel, J. Smith</div>
+<div class="pub-venue">arXiv:2401.XXXXX, 2024</div>
+<div class="pub-links">
+  <a class="pub-link" href="#">arXiv</a>
+  <a class="pub-link" href="#">Code</a>
+</div>
+</div>
+
+---
+
+::: {.callout-note}
+Publications marked with (†) indicate equal contribution. Please [contact me](mailto:contact@alefiyahussain.github.io) if you need access to a paper you cannot find online.
+:::

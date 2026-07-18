@@ -1,0 +1,49 @@
+---
+title: "Alefiya Hussain"
+subtitle: "Researcher · Engineer · Builder"
+page-layout: full
+toc: false
+---
+
+<div class="profile-section">
+  <img src="images/profile.jpg" alt="Alefiya Hussain" class="profile-photo" onerror="this.src='https://via.placeholder.com/180x180/2563eb/ffffff?text=AH'"/>
+  <div class="profile-info">
+    <h1>Alefiya Hussain</h1>
+    <p class="subtitle">Researcher · Engineer · Builder</p>
+    <p>
+      Welcome! I'm a researcher and engineer passionate about building systems that matter.
+      My work spans distributed systems, security, and applied machine learning.
+      I am driven by the belief that rigorous research and thoughtful engineering can solve real-world problems.
+    </p>
+    <div class="profile-badges">
+      <span class="badge-item">📍 United States</span>
+      <span class="badge-item">🔬 Research</span>
+      <span class="badge-item">💻 Engineering</span>
+    </div>
+  </div>
+</div>
+
+---
+
+## About Me
+
+I am a researcher and software engineer with a focus on distributed systems, network security, and machine learning. I enjoy working at the intersection of theory and practice — from designing principled algorithms to shipping robust production systems.
+
+Before my current role, I studied at a leading research university where I developed a strong foundation in computer science and applied mathematics. I've had the opportunity to collaborate with incredible colleagues across academia and industry, which has shaped my perspective on what it means to do impactful work.
+
+When I'm not at my desk, you'll find me hiking, reading, or experimenting with new programming languages.
+
+---
+
+## News
+
+| Date | Event |
+|------|-------|
+| **2024** | Started building this personal website with Quarto |
+| **2024** | Exploring new research directions in systems security |
+
+---
+
+## Contact
+
+The best way to reach me is by [email](mailto:contact@alefiyahussain.github.io). I am also on [GitHub](https://github.com/alefiyahussain) and [LinkedIn](https://www.linkedin.com/in/alefiyahussain).

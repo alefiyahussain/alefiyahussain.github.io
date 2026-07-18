@@ -1,0 +1,11 @@
+/* Additional CSS overrides */
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Constrain content width */
+.page-columns .column-body {
+  max-width: 900px;
+}

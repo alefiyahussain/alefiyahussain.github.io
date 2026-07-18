@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Alefiya Hussain"
+  description: "Personal website of Alefiya Hussain — researcher, engineer, and thinker."
+  favicon: images/favicon.png
+  site-url: https://alefiyahussain.github.io
+  repo-url: https://github.com/alefiyahussain/alefiyahussain.github.io
+  open-graph: true
+  twitter-card:
+    creator: "@alefiyahussain"
+    card-style: summary_large_image
+
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Blog"
+        href: posts/index.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/alefiyahussain
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alefiyahussain
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:contact@alefiyahussain.github.io
+        aria-label: Email
+
+  page-footer:
+    left: "© 2024 Alefiya Hussain"
+    center:
+      - text: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/alefiyahussain
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alefiyahussain
+
+format:
+  html:
+    theme:
+      light: [flatly, styles/custom.scss]
+      dark: [darkly, styles/custom.scss]
+    css: styles/custom.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    highlight-style: github

@@ -1,0 +1,7 @@
+_site/
+.quarto/
+*.egg-info/
+__pycache__/
+.DS_Store
+
+/.quarto/
