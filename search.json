@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome\n\n\n\nmeta\n\n\n\nA first post — what this blog is for.\n\n\n\n\n\nJul 17, 2026\n\n\nAlefiya Hussain\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alefiya Hussain",
+    "section": "",
+    "text": "I’m a researcher at the USC Information Sciences Institute (USC-ISI) with more than three decades of experience building and operating cutting-edge platforms for networked cybersecurity experimentation, data sharing, and reproducible research. I have served as PI or co-PI on multiple DARPA, NSF, and DHS programs.\nI lead or co-lead DeterLab — for over 19 years the only public research testbed for cybersecurity, serving 1,000+ researchers across 278 institutions and 46 countries — and the Merge control-software ecosystem that powers independent testbeds for DARPA and NSF. My work spans experimentation infrastructure, measurements and benchmarks, large-scale data collection for machine learning, and the methodology that makes networking experiments repeatable and reproducible.\nI also lead extensive testing & evaluation (T&E) for DARPA programs — most recently partnering with Sandia National Laboratories to evaluate three technologies in the DARPA SearchLight program, producing an 800+ page final assessment.\nOn this site you’ll find my research, publications, a technical blog, and my CV.\n\n\n\n\n\nExperimentation Infrastructure | Testbeds and platforms for networking & cybersecurity research — DeterLab, MergeTB, MAGI, ThirdEye  Measurements, Metrics & Benchmarks | Rigorous, reproducible measurement of denial-of-service and defense effectiveness  Reproducibility & Repeatability | Methodology and fidelity studies for trustworthy networking experiments  Cyber-Physical Systems | Statistical modeling of interconnected techno-economic-social systems (e.g. smart grids)  Data for Machine Learning | Large-scale, representative data-collection efforts to enable ML research"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Alefiya Hussain",
+    "section": "",
+    "text": "I’m a researcher at the USC Information Sciences Institute (USC-ISI) with more than three decades of experience building and operating cutting-edge platforms for networked cybersecurity experimentation, data sharing, and reproducible research. I have served as PI or co-PI on multiple DARPA, NSF, and DHS programs.\nI lead or co-lead DeterLab — for over 19 years the only public research testbed for cybersecurity, serving 1,000+ researchers across 278 institutions and 46 countries — and the Merge control-software ecosystem that powers independent testbeds for DARPA and NSF. My work spans experimentation infrastructure, measurements and benchmarks, large-scale data collection for machine learning, and the methodology that makes networking experiments repeatable and reproducible.\nI also lead extensive testing & evaluation (T&E) for DARPA programs — most recently partnering with Sandia National Laboratories to evaluate three technologies in the DARPA SearchLight program, producing an 800+ page final assessment.\nOn this site you’ll find my research, publications, a technical blog, and my CV."
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Alefiya Hussain",
+    "section": "",
+    "text": "Experimentation Infrastructure | Testbeds and platforms for networking & cybersecurity research — DeterLab, MergeTB, MAGI, ThirdEye  Measurements, Metrics & Benchmarks | Rigorous, reproducible measurement of denial-of-service and defense effectiveness  Reproducibility & Repeatability | Methodology and fidelity studies for trustworthy networking experiments  Cyber-Physical Systems | Statistical modeling of interconnected techno-economic-social systems (e.g. smart grids)  Data for Machine Learning | Large-scale, representative data-collection efforts to enable ML research"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research builds the infrastructure, methods, and metrics that make cybersecurity and networking experimentation rigorous, reproducible, and useful to the broader community. Below are the main threads, along with the platforms my team has designed and operated."
+  },
+  {
+    "objectID": "research.html#research-threads",
+    "href": "research.html#research-threads",
+    "title": "Research",
+    "section": "Research Threads",
+    "text": "Research Threads\n\nCybersecurity Experimentation Infrastructure\nDeveloping and maintaining networked cybersecurity experimentation and data-sharing platforms — from semantic frameworks for analyzing experiment data to orchestration of complex, multi-domain experiments.\n\n\nMeasurements, Metrics & Benchmarks\nDeveloping robust measurements and user-centric metrics with the goal of creating rigorous, community-adopted benchmarks — including accurate measurement of denial-of-service impact and defense effectiveness.\n\n\nReproducibility & Repeatability\nExperimentation methodology for repeatability and reproducibility in networking research, including replicated testbed studies and fidelity analyses of traffic generation and network emulation.\n\n\nCyber-Physical Systems & Cross-Disciplinary Modeling\nStatistical modeling of complex, interconnected techno-economic-social systems — for example, security and resiliency of energy cyber-physical systems and strategic adversaries in dynamic-pricing markets.\n\n\nData Collection for Machine Learning\nLeading large-scale, representative data-collection efforts (such as the DARPA SearchLight application-traffic dataset) to enable machine-learning research on realistic network behavior.\n\n\nCommunity, Tutorials & Workshops\nCultivating research communities and disseminating best practices through tutorials, workshops, and shared testbed resources."
+  },
+  {
+    "objectID": "research.html#infrastructure-i-build-operate",
+    "href": "research.html#infrastructure-i-build-operate",
+    "title": "Research",
+    "section": "Infrastructure I Build & Operate",
+    "text": "Infrastructure I Build & Operate\n\nDeterLab\nFor 19+ years, the only public research infrastructure dedicated to cybersecurity (NSF, DARPA, and DHS funded). To date it has served 389 research projects, 278 institutions, 1,042 researchers across 205 locations in 46 countries.\n\n\nMerge (MergeTB)\nControl software for experimental environments, deployed to run three independent infrastructures: DARPA DCOMP, DARPA SearchLight, and NSF DeterLab.\n\n\nExperimentation Tools\n\n\n\nTool\nPurpose\n\n\n\n\nLegoTG / Flooder\nRealistic traffic generation\n\n\nVTC generator\nRepresentative video-teleconference traffic\n\n\nNetwork emulator\nHigh-fidelity network emulation\n\n\nFARM (dash)\nHuman user-behavior models\n\n\nMAGI\nExperiment automation\n\n\nThirdEye\nExperiment logging & monitoring\n\n\nDDoS benchmarks\nBenchmarking suite"
+  },
+  {
+    "objectID": "research.html#testing-evaluation",
+    "href": "research.html#testing-evaluation",
+    "title": "Research",
+    "section": "Testing & Evaluation",
+    "text": "Testing & Evaluation\nUSC-ISI has extensive experience in testing & evaluation (T&E) for DARPA programs. Evaluations are structured as claims and hypotheses aligned with solicitation-defined metrics, exercised across a wide range of scenarios to surface both strengths and limitations, with iterative assessments delivered to the funding agency. Most recently, my team partnered with Sandia National Laboratories to lead the evaluation of three technologies in the DARPA SearchLight program, delivering an 800+ page final assessment."
+  },
+  {
+    "objectID": "research.html#secure-classified-facilities",
+    "href": "research.html#secure-classified-facilities",
+    "title": "Research",
+    "section": "Secure & Classified Facilities",
+    "text": "Secure & Classified Facilities\nUSC-ISI operates a dedicated IT team and infrastructure supporting export-controlled and classified work, including a NIST SP 800-171 enclave, SCIFs, and DOD-accredited secure spaces and IT systems in Los Angeles, CA and Arlington, VA."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my blog. This is where I’ll write about the things my research touches day to day: building and operating cybersecurity testbeds, measuring denial-of-service and defenses in ways that actually reproduce, generating realistic network traffic, and the practical side of making experiments trustworthy.\nExpect posts that pair a research paper with the why it matters and, where useful, pointers to code and data. If you’re new here, start with my research or browse the publications.\nMore soon."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A selection of publications grouped by theme. For the complete list, see my CV or Google Scholar."
+  },
+  {
+    "objectID": "publications.html#experimentation-infrastructure-testbeds",
+    "href": "publications.html#experimentation-infrastructure-testbeds",
+    "title": "Publications",
+    "section": "Experimentation Infrastructure & Testbeds",
+    "text": "Experimentation Infrastructure & Testbeds\n\nHussain, A. et al. Toward Orchestration of Complex Networking Experiments. CSET / USENIX, 2020.\nArdi, C. et al. The DARPA SearchLight Dataset of Application Network Traffic. CSET, 2022.\nKocoloski, B. et al. Case Studies in Experiment Design on a minimega-based Testbed. CSET, 2021.\nGoodfellow, R. et al. Merge: An Architecture for Interconnected Testbed Ecosystems. 2018.\nWroclawski, J. et al. DETERLab and the DETER Project. In The GENI Book, 2016.\nMirkovic, J. & Benzel, T. DeterLab: Testbed for Cybersecurity Research and Education. 2013.\nMirkovic, J. et al. Reducing Allocation Errors in Network Testbeds. IMC, 2012.\nMirkovic, J. et al. Automating DDoS Experimentation. USENIX CSET, 2007."
+  },
+  {
+    "objectID": "publications.html#measurements-metrics-benchmarks",
+    "href": "publications.html#measurements-metrics-benchmarks",
+    "title": "Publications",
+    "section": "Measurements, Metrics & Benchmarks",
+    "text": "Measurements, Metrics & Benchmarks\n\nCollins, M. et al. Identifying and Differentiating Acknowledged Scanners. EuroS&PW, 2023.\nTregubov, A. et al. Modeling Cognitive Workload in Open-Source Communities via Simulation. MABS, 2023.\nDeAngelis, G. et al. Generating Representative Video Teleconferencing Traffic. CSET, 2022.\nAkhtar, S. et al. DBit: Assessing Statistically Significant Differences in CDN Performance. Computer Networks, 2016.\nMirkovic, J. et al. Accurately Measuring Denial of Service in Simulation and Testbed Experiments. IEEE TDSC, 2008.\nMirkovic, J. et al. Towards User-Centric Metrics for Denial-of-Service Measurement. 2007.\nMirkovic, J. et al. Measuring Denial of Service. ACM QoP, 2006."
+  },
+  {
+    "objectID": "publications.html#reproducibility-repeatability",
+    "href": "publications.html#reproducibility-repeatability",
+    "title": "Publications",
+    "section": "Reproducibility & Repeatability",
+    "text": "Reproducibility & Repeatability\n\nHussain, A. et al. Replicated Testbed Experiments for the Evaluation of DDoS Defenses. EuroS&PW, 2020.\nCollins, M. et al. Towards an Operations-Aware Experimentation Methodology. EuroS&PW, 2022.\nArdi, C. et al. Improving Fidelity in Video Streaming Experimentation. NDVS Workshop, 2022.\nArdi, C. et al. Building Reproducible Video Streaming Traffic Generators. CSET, 2021.\nSharma, A. et al. Towards Repeatability and Verifiability in Networking Experiments. JNCA, 2017."
+  },
+  {
+    "objectID": "publications.html#cyber-physical-systems",
+    "href": "publications.html#cyber-physical-systems",
+    "title": "Publications",
+    "section": "Cyber-Physical Systems",
+    "text": "Cyber-Physical Systems\n\nWood, P. et al. Profiting from Attacks on Real-Time Price Communications in Smart Grids. COMSNETS, 2017.\nWood, P. et al. Defending Against Strategic Adversaries in Dynamic Pricing Markets. COMSNETS, 2016.\nAnnaswamy, A. et al. Foundations of Infrastructure CPS. ACC, 2016.\nWood, P. et al. Optimizing Defensive Investments in Energy-Based CPS. IPDPS, 2015.\nHussain, A. et al. Enabling Collaborative Research for Security and Resiliency of Energy CPS. DCOSS, 2014.\nAmin, S. et al. In Quest of Benchmarking Security Risks to Cyber-Physical Systems. IEEE Network, 2013."
+  },
+  {
+    "objectID": "publications.html#foundational-early-work",
+    "href": "publications.html#foundational-early-work",
+    "title": "Publications",
+    "section": "Foundational & Early Work",
+    "text": "Foundational & Early Work\n\nHussain, A. et al. Experiences with a Continuous Network Tracing Infrastructure. ACM SIGCOMM MineNet, 2005.\nHussain, A. et al. A Framework for Classifying Denial of Service Attacks. ACM SIGCOMM, 2003.\nHussain, A. Measurement and Spectral Analysis of Denial-of-Service Attacks. PhD Thesis, USC, 2005."
+  }
+]

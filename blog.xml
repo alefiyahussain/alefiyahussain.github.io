@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alefiya Hussain</title>
+<link>https://alefiyahussain.github.io/blog.html</link>
+<atom:link href="https://alefiyahussain.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Networked cybersecurity experimentation, testbeds &amp; reproducible research</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 17 Jul 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome</title>
+  <dc:creator>Alefiya Hussain</dc:creator>
+  <link>https://alefiyahussain.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome to my blog. This is where I’ll write about the things my research touches day to day: building and operating cybersecurity testbeds, measuring denial-of-service and defenses in ways that actually reproduce, generating realistic network traffic, and the practical side of making experiments trustworthy.</p>
+<p>Expect posts that pair a research paper with the <em>why it matters</em> and, where useful, pointers to code and data. If you’re new here, start with <a href="../../research.html">my research</a> or browse the <a href="../../publications.html">publications</a>.</p>
+<p>More soon.</p>
+
+
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://alefiyahussain.github.io/posts/welcome/</guid>
+  <pubDate>Fri, 17 Jul 2026 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
