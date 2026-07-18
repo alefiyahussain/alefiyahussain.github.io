@@ -1,0 +1,42 @@
+---
+title: "Research"
+toc: true
+---
+
+My research interests lie at the intersection of **systems**, **security**, and **machine learning**. I am drawn to problems where a principled theoretical understanding can lead to practical, deployable solutions.
+
+---
+
+## Research Areas
+
+<div class="research-area">
+<h3>🔒 Systems Security</h3>
+Designing and analyzing secure distributed systems, with a focus on adversarial robustness and formal verification of security properties. I am particularly interested in how modern system architectures can be hardened against both passive and active adversaries.
+</div>
+
+<div class="research-area">
+<h3>🌐 Distributed & Networked Systems</h3>
+Understanding the fundamental limits of distributed computation and communication. This includes fault tolerance, consensus protocols, and the design of scalable, reliable infrastructure for modern applications.
+</div>
+
+<div class="research-area">
+<h3>🤖 Applied Machine Learning</h3>
+Applying machine learning techniques to systems problems — including anomaly detection in network traffic, predictive resource management, and automated vulnerability discovery. I am especially interested in the reliability and trustworthiness of ML-based systems.
+</div>
+
+<div class="research-area">
+<h3>📊 Data-Driven Experimentation</h3>
+Developing rigorous methodologies for evaluating systems at scale. This includes reproducible benchmarking, statistical analysis of experimental results, and open science practices.
+</div>
+
+---
+
+## Collaborators & Affiliations
+
+I have had the privilege of collaborating with researchers at several institutions. I believe strongly in open and reproducible science, and I strive to make my code and datasets publicly available where possible.
+
+---
+
+## Open Source
+
+Much of my research produces open-source artifacts. You can find them on my [GitHub profile](https://github.com/alefiyahussain).

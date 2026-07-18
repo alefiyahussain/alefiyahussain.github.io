@@ -1,0 +1,125 @@
+---
+title: "Curriculum Vitae"
+toc: true
+---
+
+::: {.callout-tip}
+## Download
+You can download a PDF version of my CV [here](cv.pdf) (updated 2024).
+:::
+
+---
+
+## Education
+
+<div class="cv-section">
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Ph.D. in Computer Science</h4>
+  <p>University Name · Advisor: Prof. Firstname Lastname</p>
+  <p>Dissertation: <em>TBD</em></p>
+</div>
+<div class="cv-year">2022 – Present</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-details">
+  <h4>B.S. in Computer Science (Honors)</h4>
+  <p>University Name · GPA: 4.0/4.0</p>
+</div>
+<div class="cv-year">2018 – 2022</div>
+</div>
+</div>
+
+---
+
+## Experience
+
+<div class="cv-section">
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Research Intern</h4>
+  <p>Company / Lab Name · Mentors: Name, Name</p>
+  <p>Worked on distributed systems security and anomaly detection at scale.</p>
+</div>
+<div class="cv-year">Summer 2023</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Software Engineering Intern</h4>
+  <p>Company Name</p>
+  <p>Designed and shipped a feature for real-time network monitoring.</p>
+</div>
+<div class="cv-year">Summer 2021</div>
+</div>
+</div>
+
+---
+
+## Publications
+
+See the [Publications](publications.qmd) page for a full list.
+
+---
+
+## Awards & Honors
+
+<div class="cv-section">
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Graduate Fellowship</h4>
+  <p>Fellowship Name</p>
+</div>
+<div class="cv-year">2022</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Best Paper Award</h4>
+  <p>Workshop on Systems and Security</p>
+</div>
+<div class="cv-year">2023</div>
+</div>
+</div>
+
+---
+
+## Teaching
+
+<div class="cv-section">
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Teaching Assistant — CS 101: Introduction to Computer Science</h4>
+  <p>University Name</p>
+</div>
+<div class="cv-year">Fall 2022</div>
+</div>
+
+<div class="cv-item">
+<div class="cv-details">
+  <h4>Teaching Assistant — CS 445: Computer Networks</h4>
+  <p>University Name</p>
+</div>
+<div class="cv-year">Spring 2023</div>
+</div>
+</div>
+
+---
+
+## Service
+
+- **Program Committee Member:** Workshop on ML for Systems (2024)
+- **Reviewer:** IEEE Transactions on Network and Service Management (2023–present)
+- **Volunteer:** ACM SIGCOMM (2023), USENIX Security (2024)
+
+---
+
+## Skills
+
+| Area | Technologies |
+|------|-------------|
+| Languages | Python, Go, Rust, C/C++, R |
+| Systems | Linux, Docker, Kubernetes |
+| ML/Data | PyTorch, scikit-learn, Pandas, Spark |
+| Tools | Git, LaTeX, Quarto |

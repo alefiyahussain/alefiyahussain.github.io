@@ -1,0 +1,52 @@
+---
+title: "Welcome to My Website"
+description: "A brief introduction to who I am and what I plan to write about on this blog."
+date: "2024-01-15"
+categories: [meta, introduction]
+image: thumbnail.png
+toc: true
+---
+
+## Hello, World!
+
+Welcome to my personal website and blog! I'm Alefiya Hussain, a researcher and engineer working on distributed systems, security, and machine learning. I built this site with [Quarto](https://quarto.org), which makes it easy to combine prose, code, and math in a single document.
+
+This blog will be a place where I:
+
+- Share research notes and ideas in progress
+- Write tutorials on systems and ML tools I find useful
+- Reflect on papers and books I've read
+- Post updates on projects and open-source work
+
+---
+
+## Why Quarto?
+
+[Quarto](https://quarto.org) is an open-source scientific and technical publishing system. It supports Python, R, Julia, and Observable JS, making it ideal for researchers who want to publish reproducible, literate documents. Here's a small taste:
+
+```python
+import math
+
+def entropy(p):
+    """Compute binary entropy."""
+    if p == 0 or p == 1:
+        return 0
+    return -p * math.log2(p) - (1 - p) * math.log2(1 - p)
+
+# Maximum entropy at p=0.5
+print(f"H(0.5) = {entropy(0.5):.4f} bits")
+```
+
+Quarto renders this beautifully and can produce HTML, PDF, and even slideshows from the same source.
+
+---
+
+## What's Next
+
+I have several posts in the pipeline:
+
+1. **A deep dive into consensus protocols** — from Paxos to Raft to modern BFT
+2. **Reproducible ML experiments** — tools and practices I swear by
+3. **Network security fundamentals** — a series for practitioners
+
+Stay tuned, and feel free to reach out if there's something you'd like me to write about!
