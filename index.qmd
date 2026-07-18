@@ -1,0 +1,63 @@
+---
+title: "Alefiya Hussain"
+image: profile.svg
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: Email
+      icon: envelope
+      url: "mailto:alefiyah@usc.edu"
+    - text: Google Scholar
+      icon: mortarboard
+      url: "https://scholar.google.com/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/alefiyahussain"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/"
+    - text: CV
+      icon: file-earmark-text
+      url: "cv.pdf"
+comments: false
+---
+
+::: {.column-page}
+
+## Bio
+
+I'm a researcher at the [USC Information Sciences Institute (USC-ISI)](https://www.isi.edu)
+with more than three decades of experience building and operating cutting-edge
+platforms for **networked cybersecurity experimentation**, data sharing, and
+reproducible research. I have served as PI or co-PI on multiple DARPA, NSF, and
+DHS programs.
+
+I lead or co-lead **[DeterLab](https://deterlab.net)** — for over 19 years the
+only public research testbed for cybersecurity, serving 1,000+ researchers across
+278 institutions and 46 countries — and the **[Merge](https://mergetb.org)**
+control-software ecosystem that powers independent testbeds for DARPA and NSF.
+My work spans experimentation infrastructure, measurements and benchmarks,
+large-scale data collection for machine learning, and the methodology that makes
+networking experiments **repeatable and reproducible**.
+
+I also lead extensive **testing & evaluation (T&E)** for DARPA programs — most
+recently partnering with Sandia National Laboratories to evaluate three
+technologies in the DARPA SearchLight program, producing an 800+ page final
+assessment.
+
+On this site you'll find [my research](research.html),
+[publications](publications.html), a [technical blog](blog.html), and
+[my CV](cv.pdf).
+
+<p></p>
+
+## Research Focus
+
+**Experimentation Infrastructure** | Testbeds and platforms for networking & cybersecurity research — DeterLab, MergeTB, MAGI, ThirdEye <br>
+**Measurements, Metrics & Benchmarks** | Rigorous, reproducible measurement of denial-of-service and defense effectiveness <br>
+**Reproducibility & Repeatability** | Methodology and fidelity studies for trustworthy networking experiments <br>
+**Cyber-Physical Systems** | Statistical modeling of interconnected techno-economic-social systems (e.g. smart grids) <br>
+**Data for Machine Learning** | Large-scale, representative data-collection efforts to enable ML research
+
+:::

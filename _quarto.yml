@@ -1,0 +1,41 @@
+project:
+  type: website
+  resources:
+    - cv.pdf
+    - resume.pdf
+
+website:
+  title: "Alefiya Hussain"
+  site-url: https://alefiyahussain.github.io
+  description: "Networked cybersecurity experimentation, testbeds & reproducible research"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Research"
+        href: research.html
+      - text: "Publications"
+        href: publications.html
+      - text: "Blog"
+        href: blog.html
+      - icon: rss
+        href: blog.xml
+  page-footer:
+    left: "© Copyright 2026 Alefiya Hussain. All text and images licensed CC-BY-NC 4.0 except where noted."
+    right:
+      - icon: github
+        href: https://github.com/alefiyahussain
+      - icon: envelope
+        href: mailto:alefiyah@usc.edu
+
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 200px
+      body-width: 900px
+      margin-width: 250px

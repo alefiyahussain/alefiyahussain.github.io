@@ -1,0 +1,58 @@
+---
+title: "Publications"
+subtitle: "Selected peer-reviewed publications"
+toc: true
+toc-title: "Jump to"
+---
+
+A selection of publications grouped by theme. For the complete list, see my
+[CV](cv.pdf) or [Google Scholar](https://scholar.google.com/).
+
+::: {.callout-note appearance="simple"}
+The entries below are drawn from my research record. Add DOIs / links as you go —
+each `**Title**` line can be wrapped in a Markdown link.
+:::
+
+## Experimentation Infrastructure & Testbeds
+
+- Hussain, A. et al. **Toward Orchestration of Complex Networking Experiments.** CSET / USENIX, 2020.
+- Ardi, C. et al. **The DARPA SearchLight Dataset of Application Network Traffic.** CSET, 2022.
+- Kocoloski, B. et al. **Case Studies in Experiment Design on a minimega-based Testbed.** CSET, 2021.
+- Goodfellow, R. et al. **Merge: An Architecture for Interconnected Testbed Ecosystems.** 2018.
+- Wroclawski, J. et al. **DETERLab and the DETER Project.** In *The GENI Book*, 2016.
+- Mirkovic, J. & Benzel, T. **DeterLab: Testbed for Cybersecurity Research and Education.** 2013.
+- Mirkovic, J. et al. **Reducing Allocation Errors in Network Testbeds.** IMC, 2012.
+- Mirkovic, J. et al. **Automating DDoS Experimentation.** USENIX CSET, 2007.
+
+## Measurements, Metrics & Benchmarks
+
+- Collins, M. et al. **Identifying and Differentiating Acknowledged Scanners.** EuroS&PW, 2023.
+- Tregubov, A. et al. **Modeling Cognitive Workload in Open-Source Communities via Simulation.** MABS, 2023.
+- DeAngelis, G. et al. **Generating Representative Video Teleconferencing Traffic.** CSET, 2022.
+- Akhtar, S. et al. **DBit: Assessing Statistically Significant Differences in CDN Performance.** Computer Networks, 2016.
+- Mirkovic, J. et al. **Accurately Measuring Denial of Service in Simulation and Testbed Experiments.** IEEE TDSC, 2008.
+- Mirkovic, J. et al. **Towards User-Centric Metrics for Denial-of-Service Measurement.** 2007.
+- Mirkovic, J. et al. **Measuring Denial of Service.** ACM QoP, 2006.
+
+## Reproducibility & Repeatability
+
+- Hussain, A. et al. **Replicated Testbed Experiments for the Evaluation of DDoS Defenses.** EuroS&PW, 2020.
+- Collins, M. et al. **Towards an Operations-Aware Experimentation Methodology.** EuroS&PW, 2022.
+- Ardi, C. et al. **Improving Fidelity in Video Streaming Experimentation.** NDVS Workshop, 2022.
+- Ardi, C. et al. **Building Reproducible Video Streaming Traffic Generators.** CSET, 2021.
+- Sharma, A. et al. **Towards Repeatability and Verifiability in Networking Experiments.** JNCA, 2017.
+
+## Cyber-Physical Systems
+
+- Wood, P. et al. **Profiting from Attacks on Real-Time Price Communications in Smart Grids.** COMSNETS, 2017.
+- Wood, P. et al. **Defending Against Strategic Adversaries in Dynamic Pricing Markets.** COMSNETS, 2016.
+- Annaswamy, A. et al. **Foundations of Infrastructure CPS.** ACC, 2016.
+- Wood, P. et al. **Optimizing Defensive Investments in Energy-Based CPS.** IPDPS, 2015.
+- Hussain, A. et al. **Enabling Collaborative Research for Security and Resiliency of Energy CPS.** DCOSS, 2014.
+- Amin, S. et al. **In Quest of Benchmarking Security Risks to Cyber-Physical Systems.** IEEE Network, 2013.
+
+## Foundational & Early Work
+
+- Hussain, A. et al. **Experiences with a Continuous Network Tracing Infrastructure.** ACM SIGCOMM MineNet, 2005.
+- Hussain, A. et al. **A Framework for Classifying Denial of Service Attacks.** ACM SIGCOMM, 2003.
+- Hussain, A. **Measurement and Spectral Analysis of Denial-of-Service Attacks.** PhD Thesis, USC, 2005.

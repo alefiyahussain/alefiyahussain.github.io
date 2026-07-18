@@ -1,0 +1,32 @@
+/* Custom tweaks on top of the sandstone theme */
+
+.navbar {
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* About-page bio spacing */
+.about-entity .about-links {
+  gap: 0.4rem;
+}
+
+/* Make the "Research Focus" pseudo-table on the home page breathe */
+.column-page h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #1f6f78;
+}
+
+/* Listing cards */
+.quarto-listing .listing-title {
+  font-weight: 600;
+}
+
+/* Publication lists: tighter, readable */
+#quarto-content ul li {
+  margin-bottom: 0.35rem;
+}
+
+/* Footer icons */
+.nav-footer .nav-link {
+  padding-left: 0.5rem;
+}

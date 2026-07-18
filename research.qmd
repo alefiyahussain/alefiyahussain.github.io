@@ -1,0 +1,82 @@
+---
+title: "Research"
+subtitle: "Cybersecurity experimentation infrastructure, measurement, and reproducibility"
+toc: true
+toc-title: "On this page"
+---
+
+My research builds the infrastructure, methods, and metrics that make
+cybersecurity and networking experimentation **rigorous, reproducible, and
+useful to the broader community**. Below are the main threads, along with the
+platforms my team has designed and operated.
+
+## Research Threads
+
+### Cybersecurity Experimentation Infrastructure
+Developing and maintaining networked cybersecurity experimentation and
+data-sharing platforms — from semantic frameworks for analyzing experiment data
+to orchestration of complex, multi-domain experiments.
+
+### Measurements, Metrics & Benchmarks
+Developing robust measurements and user-centric metrics with the goal of
+creating rigorous, community-adopted benchmarks — including accurate measurement
+of denial-of-service impact and defense effectiveness.
+
+### Reproducibility & Repeatability
+Experimentation methodology for repeatability and reproducibility in networking
+research, including replicated testbed studies and fidelity analyses of traffic
+generation and network emulation.
+
+### Cyber-Physical Systems & Cross-Disciplinary Modeling
+Statistical modeling of complex, interconnected techno-economic-social systems —
+for example, security and resiliency of energy cyber-physical systems and
+strategic adversaries in dynamic-pricing markets.
+
+### Data Collection for Machine Learning
+Leading large-scale, representative data-collection efforts (such as the DARPA
+SearchLight application-traffic dataset) to enable machine-learning research on
+realistic network behavior.
+
+### Community, Tutorials & Workshops
+Cultivating research communities and disseminating best practices through
+tutorials, workshops, and shared testbed resources.
+
+## Infrastructure I Build & Operate
+
+### DeterLab
+For **19+ years**, the only public research infrastructure dedicated to
+cybersecurity (NSF, DARPA, and DHS funded). To date it has served **389 research
+projects, 278 institutions, 1,042 researchers** across **205 locations in 46
+countries**.
+
+### Merge (MergeTB)
+Control software for experimental environments, deployed to run three independent
+infrastructures: **DARPA DCOMP**, **DARPA SearchLight**, and **NSF DeterLab**.
+
+### Experimentation Tools
+| Tool | Purpose |
+|------|---------|
+| **LegoTG / Flooder** | Realistic traffic generation |
+| **VTC generator** | Representative video-teleconference traffic |
+| **Network emulator** | High-fidelity network emulation |
+| **FARM (dash)** | Human user-behavior models |
+| **MAGI** | Experiment automation |
+| **ThirdEye** | Experiment logging & monitoring |
+| **DDoS benchmarks** | Benchmarking suite |
+
+## Testing & Evaluation
+
+USC-ISI has extensive experience in **testing & evaluation (T&E)** for DARPA
+programs. Evaluations are structured as claims and hypotheses aligned with
+solicitation-defined metrics, exercised across a wide range of scenarios to
+surface both strengths and limitations, with iterative assessments delivered to
+the funding agency. Most recently, my team partnered with **Sandia National
+Laboratories** to lead the evaluation of three technologies in the DARPA
+**SearchLight** program, delivering an **800+ page** final assessment.
+
+## Secure & Classified Facilities
+
+USC-ISI operates a dedicated IT team and infrastructure supporting
+export-controlled and classified work, including a **NIST SP 800-171 enclave**,
+**SCIFs**, and **DOD-accredited** secure spaces and IT systems in Los Angeles, CA
+and Arlington, VA.

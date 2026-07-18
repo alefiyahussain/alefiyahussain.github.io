@@ -1,0 +1,18 @@
+---
+title: "Welcome"
+description: "A first post — what this blog is for."
+date: "2026-07-17"
+categories: [meta]
+---
+
+Welcome to my blog. This is where I'll write about the things my research touches
+day to day: building and operating cybersecurity testbeds, measuring
+denial-of-service and defenses in ways that actually reproduce, generating
+realistic network traffic, and the practical side of making experiments
+trustworthy.
+
+Expect posts that pair a research paper with the *why it matters* and, where
+useful, pointers to code and data. If you're new here, start with
+[my research](../../research.html) or browse the [publications](../../publications.html).
+
+More soon.
